@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">الترجمة الفورية</string>
+    <string name="from">من</string>
+    <string name="to">الي</string>
+    <string name="translation">الترجمة</string>
+    <string name="enter_to_translate">اكتب نص للترجمة</string>
+</resources>

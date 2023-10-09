@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RealTime Translation</string>
+    <string name="from">From</string>
+    <string name="to">To</string>
+    <string name="translation">Translation</string>
+    <string name="enter_to_translate">Enter to translate</string>
+</resources>
